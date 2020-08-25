@@ -29,7 +29,7 @@ $ yarn start
 
 Follow the following steps and you're good to go! Important:
 
-![alt text]()
+![alt text](https://firebase.google.com/docs/hosting/images/hosting-deploy-stackblitz.gif?hl=es)
 
 ## Coding
 
